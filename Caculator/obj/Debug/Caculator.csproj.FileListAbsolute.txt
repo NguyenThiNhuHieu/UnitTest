@@ -1,0 +1,10 @@
+G:\GUI\Caculator\Caculator\bin\Debug\Caculator.exe.config
+G:\GUI\Caculator\Caculator\bin\Debug\Caculator.exe
+G:\GUI\Caculator\Caculator\bin\Debug\Caculator.pdb
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.csprojAssemblyReference.cache
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.exe
+G:\GUI\Caculator\Caculator\obj\Debug\Caculator.pdb
