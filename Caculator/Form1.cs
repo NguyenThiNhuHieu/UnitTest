@@ -17,12 +17,6 @@ namespace Caculator
             InitializeComponent();
         }
         
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int so1 = Convert.ToInt32(text1.Text);
@@ -55,5 +49,7 @@ namespace Caculator
             Calculation c = new Calculation(so1, so2);
             text3.Text = c.Execute("/").ToString();
         }
+
+        
     }
 }

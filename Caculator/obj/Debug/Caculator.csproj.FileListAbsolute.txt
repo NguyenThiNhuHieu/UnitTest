@@ -8,3 +8,14 @@ G:\GUI\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
 G:\GUI\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
 G:\GUI\Caculator\Caculator\obj\Debug\Caculator.exe
 G:\GUI\Caculator\Caculator\obj\Debug\Caculator.pdb
+D:\SoftWare\oanh\Caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\SoftWare\oanh\Caculator\Caculator\bin\Debug\Caculator.exe
+D:\SoftWare\oanh\Caculator\Caculator\bin\Debug\Caculator.pdb
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.exe
+D:\SoftWare\oanh\Caculator\Caculator\obj\Debug\Caculator.pdb
